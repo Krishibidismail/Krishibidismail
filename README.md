@@ -16,8 +16,7 @@
 ## 🌐 Connect & Hire Me
 - [Fiverr](https://www.fiverr.com/kbdismail)
 - [LinkedIn](https://linkedin.com/in/krishibidismailhossain)
-- [Facebook](https://facebook.com/Krishibidismail
-- )
+- [Facebook](https://facebook.com/Krishibidismail)
 - [Website/Portfolio](https://www.ismailhossain.com.bd)
 
 ## 📊 GitHub Stats
